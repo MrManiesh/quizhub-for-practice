@@ -1,0 +1,23 @@
+{
+  "title": "Cinema & Movies",
+  "questions": [
+    {
+      "text": "Who directed the movie 'Titanic'?",
+      "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Martin Scorsese"],
+      "correctIndex": 1,
+      "explanation": "James Cameron directed, wrote, produced, and co-edited the 1997 epic romance and disaster film Titanic."
+    },
+    {
+      "text": "Which movie features a character named 'Darth Vader'?",
+      "options": ["Star Trek", "Star Wars", "Guardians of the Galaxy", "Avatar"],
+      "correctIndex": 1,
+      "explanation": "Darth Vader is a central character in the Star Wars franchise."
+    },
+    {
+      "text": "Which animated movie features a lion cub named Simba?",
+      "options": ["Aladdin", "The Jungle Book", "The Lion King", "Madagascar"],
+      "correctIndex": 2,
+      "explanation": "Simba is the protagonist of Disney's 1994 animated feature film, The Lion King."
+    }
+  ]
+}

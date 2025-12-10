@@ -1,0 +1,23 @@
+{
+  "title": "World History Trivia",
+  "questions": [
+    {
+      "text": "Who was the first President of the United States?",
+      "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+      "correctIndex": 2,
+      "explanation": "George Washington served as the first president of the United States from 1789 to 1797."
+    },
+    {
+      "text": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correctIndex": 2,
+      "explanation": "World War II ended in 1945 with the surrender of Germany in May and Japan in September."
+    },
+    {
+      "text": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "correctIndex": 2,
+      "explanation": "The Mona Lisa is a half-length portrait painting by the Italian artist Leonardo da Vinci."
+    }
+  ]
+}

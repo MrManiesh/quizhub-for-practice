@@ -1,0 +1,145 @@
+{
+  "title": "Rajasthan Lok Nritya – Advanced Exam Trivia",
+  "questions": [
+    {
+      "text": "Which Lok Nritya is historically linked with the worship rituals of Baba Ramdev and involves male performers playing a five-string instrument while dancing?",
+      "options": ["Kachi Ghodi", "Panihari", "Terahtaali", "Ramdev Nritya"],
+      "correctIndex": 3,
+      "explanation": "Ramdev Nritya (also called Ramdevji ka Nritya) is traditionally performed with ‘Bhapang’ and is linked to the worship of Baba Ramdev."
+    },
+    {
+      "text": "Chakri dance is mainly associated with which sub-community known historically for their wandering lifestyle and performance traditions in the Kota–Bundi belt?",
+      "options": ["Gurjar-Gaur", "Kanjar", "Sargara", "Kalbelia"],
+      "correctIndex": 1,
+      "explanation": "Chakri is performed by Kanjar women of Hadoti region, especially during Kajali Teej."
+    },
+    {
+      "text": "Which dance's rhythmic pattern is traditionally based on the ‘Bhawai’ tala but incorporates balancing skills rooted in the Jat & Kumhar communities of Nagaur?",
+      "options": ["Bhawai", "Gair", "Ghoomar", "Kachhi Ghodi"],
+      "correctIndex": 0,
+      "explanation": "Bhawai uses balancing skills (matkas, thalis) and has origins among Jat & Kumhar women of Nagaur."
+    },
+    {
+      "text": "In which region is the *Danda Nritya* (also called ‘Dandia Raas of Desert’) performed specifically during the *Hinglaj Mata* ritual traditions?",
+      "options": ["Mewat", "Marwar", "Shekhawati", "Godwad (Pali & Sirohi)"],
+      "correctIndex": 3,
+      "explanation": "Godwad region preserves Danda Nritya linked with Hinglaj Mata rituals."
+    },
+    {
+      "text": "Which of the following instruments is MOST essential in Chang Nritya and differentiates it from other Holi-related dances in Rajasthan?",
+      "options": ["Algoza", "Sindhi Sarangi", "Daph/Chang frame drum", "Morchang"],
+      "correctIndex": 2,
+      "explanation": "Chang Nritya uses the large frame drum 'Chang' which defines its tempo and style."
+    },
+    {
+      "text": "Kalbelia dancers’ costumes evolved significantly during the 1980s–1990s due to which primary reason?",
+      "options": [
+        "Influence of Bollywood folk fusion",
+        "UNESCO Intangible Heritage recognition drive",
+        "Tourism-driven re-styling for stage aesthetics",
+        "Government subsidies to folk groups"
+      ],
+      "correctIndex": 2,
+      "explanation": "Costumes were redesigned mainly to appeal to tourism and stage-show audiences."
+    },
+    {
+      "text": "Which dance of Rajasthan traditionally uses ‘Tippla’ sticks and symbolizes a local mythological battle performed largely by Garasia tribes?",
+      "options": ["Dhol Dance", "Tamesha", "Gair", "Loor"],
+      "correctIndex": 2,
+      "explanation": "Gair has many variants (Mewari, Dandia Gair, Jodhpuri Gair). Garasia tribes use long sticks called Tippla."
+    },
+    {
+      "text": "Which nritya is uniquely associated with the Siddi (Habshi) community in Rajasthan?",
+      "options": ["Dhamal", "Banjara Nritya", "Terahtaali", "Bhawai"],
+      "correctIndex": 0,
+      "explanation": "Dhamal is performed by the Siddi community, descendants of East African migrants."
+    },
+    {
+      "text": "In Terahtaali Nritya, the manjiras tied on the body are traditionally how many?",
+      "options": ["7", "9", "11", "13"],
+      "correctIndex": 3,
+      "explanation": "Terahtaali literally refers to 13 manjiras tied on various points of the body."
+    },
+    {
+      "text": "Which dance includes the tradition of *Veer Gatha* narration, performed by men on wooden dummy horses representing the exploits of the Baagrawat community?",
+      "options": ["Kachhi Ghodi", "Gher Nritya", "Tamesha", "Chang Nritya"],
+      "correctIndex": 0,
+      "explanation": "Kachhi Ghodi narrates stories of Baagrawat warriors and bandits from Shekhawati."
+    },
+    {
+      "text": "Which Lok Nritya has a rare variant known as ‘Dhol Gair’ and is especially popular in Ajmer district during Gangaur?",
+      "options": ["Ghoomar", "Gair", "Kalbelia", "Dandiya Raas"],
+      "correctIndex": 1,
+      "explanation": "Dhol Gair is a heavy percussion-based form seen in Ajmer/Godwad regions."
+    },
+    {
+      "text": "Panihari songs and dances are historically connected with what traditional social structure of western Rajasthan?",
+      "options": [
+        "Nomadic trade routes",
+        "Purdah system",
+        "Water scarcity & long-distance water fetching roles",
+        "Harvest rituals"
+      ],
+      "correctIndex": 2,
+      "explanation": "Panihari songs depict hardships of fetching water from far-off wells due to desert scarcity."
+    },
+    {
+      "text": "Loor dance, mainly performed during Holi, is associated with which agrarian practice?",
+      "options": [
+        "Celebration of cattle fairs",
+        "Protection rituals of wheat crop",
+        "Induction of girls into adulthood",
+        "Pre-harvest fertility songs in Bharatpur–Karauli belt"
+      ],
+      "correctIndex": 3,
+      "explanation": "Loor of eastern Rajasthan celebrates fertility and crops before harvest."
+    },
+    {
+      "text": "Which nritya involves acrobatic feats using swords and shields and is traditionally performed by the Rajput community?",
+      "options": ["Khyal Nritya", "Cholikay Nritya", "Talwar Raas", "Matki Nritya"],
+      "correctIndex": 2,
+      "explanation": "Talwar Raas is a martial-style dance involving swords."
+    },
+    {
+      "text": "Which dance shows a fusion of Bhil ritualistic elements and Mewari cultural patterns, often performed during 'Bhagoria'-like fairs?",
+      "options": ["Gair (Bhil variant)", "Kalbelia", "Ghoomar", "Chang"],
+      "correctIndex": 0,
+      "explanation": "Bhil Gair mixes tribal motifs with Mewar festive elements."
+    },
+    {
+      "text": "Which Lok Nritya is performed by the *Sargara* community to honor local deities and includes symbolic plough movements?",
+      "options": ["Jhoomar", "Dhamal", "Dhol Nritya", "Kanhade Prabandh Nritya"],
+      "correctIndex": 2,
+      "explanation": "Dhol Nritya by Sargara community uses symbolic agricultural gestures."
+    },
+    {
+      "text": "In Ghoomar, the step-pattern known as ‘Jhelna’ primarily represents:",
+      "options": [
+        "A circular expansion representing prosperity",
+        "A mimicry of spinning ghaghra",
+        "A fertility ritual for newly married women",
+        "The movement of monsoon winds in Marwar"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ghoomar is deeply connected with marital rites; ‘Jhelna’ symbolizes reproductive blessings."
+    },
+    {
+      "text": "Which Rajasthani dance evolved from the oral tradition of 'Achara' customs among women and is performed in small domestic spaces?",
+      "options": ["Chari Nritya", "Ghoomar", "Mand Nritya", "Panihari"],
+      "correctIndex": 2,
+      "explanation": "Mand dance is linked with women's Achara rituals and sung in 'Mand' raag."
+    },
+    {
+      "text": "The dance where performers carry fire-lit brass pots (with cotton wicks soaked in oil) is historically linked to which region?",
+      "options": ["Sekhawati", "Jodhpur–Barmer", "Ajmer", "Udaipur–Chittor"],
+      "correctIndex": 1,
+      "explanation": "Chari Nritya with fire pots is especially famous in Jodhpur and Barmer belts."
+    },
+    {
+      "text": "Which Rajasthan dance features rope-walking, balancing acts, and clown elements resembling early Indian circus traditions?",
+      "options": ["Khayal-Tamasha Nritya", "Nat/Tamasha Nritya", "Bhawai", "Jhoomar"],
+      "correctIndex": 1,
+      "explanation": "Nat/Tamasha Nritya includes rope-walking and acrobatics performed by Nat community."
+    }
+  ]
+}

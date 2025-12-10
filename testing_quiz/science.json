@@ -1,0 +1,23 @@
+{
+  "title": "General Science Challenge",
+  "questions": [
+    {
+      "text": "What is the chemical symbol for Gold?",
+      "options": ["Au", "Ag", "Fe", "Cu"],
+      "correctIndex": 0,
+      "explanation": "The chemical symbol for Gold is 'Au', which comes from the Latin word 'Aurum'."
+    },
+    {
+      "text": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctIndex": 1,
+      "explanation": "Mars is known as the Red Planet due to the reddish iron oxide prevalent on its surface."
+    },
+    {
+      "text": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+      "correctIndex": 2,
+      "explanation": "Mitochondria are often referred to as the powerhouse of the cell because they generate most of the cell's supply of adenosine triphosphate (ATP)."
+    }
+  ]
+}

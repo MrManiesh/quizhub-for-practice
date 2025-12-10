@@ -1,0 +1,23 @@
+{
+  "title": "Tech Whiz Quiz",
+  "questions": [
+    {
+      "text": "What does CPU stand for?",
+      "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Utility"],
+      "correctIndex": 1,
+      "explanation": "CPU stands for Central Processing Unit, which is the primary component of a computer that acts as its 'brain'."
+    },
+    {
+      "text": "Which company developed the Windows operating system?",
+      "options": ["Apple", "IBM", "Microsoft", "Google"],
+      "correctIndex": 2,
+      "explanation": "Microsoft developed the Windows operating system, with the first version released in 1985."
+    },
+    {
+      "text": "What is the main function of RAM in a computer?",
+      "options": ["Long-term storage", "Graphics processing", "Temporary data storage", "Cooling the system"],
+      "correctIndex": 2,
+      "explanation": "RAM (Random Access Memory) provides temporary storage for data that the CPU needs to access quickly."
+    }
+  ]
+}
